@@ -1,4 +1,4 @@
-# Petri-Dish
+# Petri-Dish Simulation
 - This is a simulation of a petri dish
 - The user can determine the size of the dish and also the number of performed time steps
 - Three types of bacteria can be placed in the petri dish
